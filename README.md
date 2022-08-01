@@ -39,7 +39,7 @@ Consulte a seção sobre [implantação](https://facebook.github.io/create-react
 > Styled-Components;<br />
 > CSS;<br />
 > HTML;<br />
-> Node.Js<br />
+> Node.Js.<br />
 
 <br />
 
