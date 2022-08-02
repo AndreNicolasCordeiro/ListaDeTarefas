@@ -29,7 +29,7 @@ const App = () =>{
 
   const handleDelete = (id: number) => {
     var filtered = list.filter((todo) => todo.id !== id);
-    setList(filtered); //pesquisar como fazer filtro de array
+    setList(filtered); 
   }
 
   return (
