@@ -1,45 +1,48 @@
-# Lista de Tarefas | React + TypeScript
+# To-do list | React + TypeScript
 
-Este projeto foi desenvolvido em React com TypeScript. Uma lista de tarefas que você pode adicionar, deletar e desabilitar os mesmos.
+This project was developed in React with TypeScript. A list of tasks that you can add, delete and disable.
 <br />
 <img src="./public/Lista de Tarefa.gif"  />
 
-## Primeiros passos
+## First steps
+
 
 `npm install`
 
-## Scripts Disponíveis
+## Available Scripts
 
-No diretório do projeto, você pode executar:
+In the project directory you can run:
+
 
 ### `npm start`
 
-Execute o aplicativo no modo de desenvolvimento.\
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
+Run the application in development mode.\
+Open it [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-A página será recarregada se você fizer edições.\
-Você também verá erros de lint no console.
+The page will reload if you make edits.\
+You will also see lint errors in the console.
 
 ### `npm test`
 
-Inicie o executor de teste no modo de exibição interativa.\
-Consulte a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
+
+Start the test runner in interactive view.\
+See the section on [test execution](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
-Compila o aplicativo para produção na pasta `build`.\
-Ele agrupa corretamente o React no modo de produção e otimiza a compilação para o melhor desempenho.
-A compilação é reduzida e os nomes dos arquivos incluem os hashes.\
-Seu aplicativo está pronto para ser implantado!
-Consulte a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para obter mais informações.
+Build the application for production in the `build`.\ folder
+It correctly bundles React in production mode and optimizes the build for the best performance.
+Compilation is shortened and filenames include the hashes.\
+Your app is ready to be deployed!
+See the section on [implantation](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 <br />
 
-## Tecnologias Utilizadas:
+## Technologies used:
 > TypeScript;<br />
 > Styled-Components;<br />
 > CSS;<br />
 > HTML;<br />
-> Node.Js.<br />
+> Node.Js<br />
 
 <br />
 
